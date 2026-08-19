@@ -24,7 +24,7 @@ class CameraService:
         frame, person = self.face_service.recognize(frame)
 
         # Check if the recognized person is the owner
-        owner_present = (person.lower() == "pratham")
+        owner_present = (person.lower() == "OWNER NAME")
 
         return frame, owner_present, person
 
