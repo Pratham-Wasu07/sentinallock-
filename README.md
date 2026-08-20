@@ -7,7 +7,7 @@ FaceLock is an AI-powered desktop security system that uses **face recognition a
 
 ---
 
-## What Makes FaceLock Different?
+## What Makes FaceLock Different?...
 
 Unlike basic face-unlock systems that only verify your identity during login, FaceLock is designed for **continuous security monitoring**.
 
